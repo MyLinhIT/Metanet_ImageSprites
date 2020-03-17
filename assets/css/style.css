@@ -1,0 +1,339 @@
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+}
+.box-icon {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.icon {
+  margin: 30px;
+  width: 50px;
+  min-width: 50px;
+}
+.icon-1 {
+  background: url('../image/icons.svg') no-repeat -25px -38px;
+	width: 50px;
+	height: 26px;
+}
+.icon-2 {
+  background: url('../image/icons.svg') no-repeat -125px -31px;
+	width: 50px;
+	height: 40px;
+}
+.icon-3 {
+  background: url('../image/icons.svg') no-repeat -230px -31px;
+	width: 40px;
+	height: 40px;
+}
+.icon-4 {
+  background: url('../image/icons.svg') no-repeat -325px -31px;
+	width: 50px;
+	height: 40px;
+}
+.icon-5 {
+  background: url('../image/icons.svg') no-repeat -432px -33px;
+	width: 36px;
+	height: 36px;
+}
+.icon-6 {
+  background: url('../image/icons.svg') no-repeat -535px -31px;
+	width: 30px;
+	height: 40px;
+}
+.icon-7 {
+  background: url('../image/icons.svg') no-repeat -625px -31px;
+	width: 50px;
+	height: 40px;
+}
+.icon-8 {
+  background: url('../image/icons.svg') no-repeat -733px -31px;
+	width: 34px;
+	height: 40px;
+}
+.icon-9 {
+  background: url('../image/icons.svg') no-repeat -30px -131px;
+	width: 40px;
+	height: 40px;
+}
+.icon-10 {
+  background: url('../image/icons.svg') no-repeat -125px -136px;
+	width: 50px;
+	height: 30px;
+}
+.icon-11 {
+  background: url('../image/icons.svg') no-repeat -232px -131px;
+	width: 36px;
+	height: 40px;
+}
+.icon-12 {
+  background: url('../image/icons.svg') no-repeat -325px -131px;
+	width: 50px;
+	height: 40px;
+}
+.icon-13 {
+  background: url('../image/icons.svg') no-repeat -430px -131px;
+	width: 40px;
+	height: 40px;
+}
+.icon-14 {
+  background: url('../image/icons.svg') no-repeat -525px -131px;
+	width: 50px;
+	height: 40px;
+}
+.icon-15 {
+  background: url('../image/icons.svg') no-repeat -625px -131px;
+	width: 50px;
+	height: 40px;
+}
+.icon-16 {
+  background: url('../image/icons.svg') no-repeat -725px -131px;
+	width: 50px;
+	height: 40px;
+}
+.icon-17 {
+  background: url('../image/icons.svg') no-repeat -30px -231px;
+	width: 40px;
+	height: 40px;
+}
+.icon-18 {
+  background: url('../image/icons.svg') no-repeat -127px -231px;
+	width: 46px;
+	height: 40px;
+}
+.icon-19 {
+  background: url('../image/icons.svg') no-repeat -225px -233px;
+	width: 50px;
+	height: 36px; 
+}
+.icon-20 {
+  background: url('../image/icons.svg') no-repeat -335px -231px;
+	width: 30px;
+	height: 40px;
+}
+.icon-21 {
+  background: url('../image/icons.svg') no-repeat -430px -231px;
+	width: 40px;
+	height: 40px;
+}
+.icon-22 {
+  background: url('../image/icons.svg') no-repeat -532px -233px;
+	width: 36px;
+	height: 36px;
+}
+.icon-23 {
+  background: url('../image/icons.svg') no-repeat -625px -231px;
+	width: 50px;
+	height: 40px;
+}
+.icon-24 {
+  background: url('../image/icons.svg') no-repeat -725px -236px;
+	width: 50px;
+	height: 35px;
+}
+.icon-25 {
+  background: url('../image/icons.svg') no-repeat -25px -333px;
+	width: 50px;
+	height: 36px;
+}
+.icon-26 {
+  background: url('../image/icons.svg') no-repeat -127px -333px;
+	width: 46px;
+	height: 36px;
+}
+.icon-27 {
+  background: url('../image/icons.svg') no-repeat -230px -333px;
+	width: 40px;
+	height: 36px;
+}
+.icon-28 {
+  background: url('../image/icons.svg') no-repeat -330px -331px;
+	width: 40px;
+	height: 40px;
+}
+.icon-29 {
+  background: url('../image/icons.svg') no-repeat -425px -338px;
+	width: 50px;
+	height: 26px;
+}
+.icon-30 {
+  background: url('../image/icons.svg') no-repeat -528px -331px;
+	width: 44px;
+	height: 40px;
+}
+.icon-31 {
+  background: url('../image/icons.svg') no-repeat -632px -331px;
+	width: 36px;
+	height: 40px;
+}
+.icon-32 {
+  background: url('../image/icons.svg') no-repeat -730px -333px;
+	width: 40px;
+	height: 36px;
+}
+.icon-33 {
+  background: url('../image/icons.svg') no-repeat -32px -431px;
+	width: 36px;
+	height: 40px;
+}
+.icon-34 {
+  background: url('../image/icons.svg') no-repeat -138px -431px;
+	width: 24px;
+	height: 40px;
+}
+.icon-35 {
+  background: url('../image/icons.svg') no-repeat -232px -433px;
+	width: 36px;
+	height: 36px;
+}
+.icon-36 {
+  background: url('../image/icons.svg') no-repeat -330px -431px;
+	width: 40px;
+	height: 40px;
+}
+.icon-37 {
+  background: url('../image/icons.svg') no-repeat -427px -433px;
+	width: 46px;
+	height: 36px;
+}
+.icon-38 {
+  background: url('../image/icons.svg') no-repeat -531px -432px;
+	width: 38px;
+	height: 38px;
+}
+.icon-39 {
+  background: url('../image/icons.svg') no-repeat -630px -431px;
+	width: 40px;
+	height: 40px;
+}
+.icon-40 {
+  background: url('../image/icons.svg') no-repeat -727px -431px;
+	width: 46px;
+	height: 40px;
+}
+.icon-41 {
+  background: url('../image/icons.svg') no-repeat -30px -536px;
+	width: 40px;
+	height: 30px;
+}
+.icon-42 {
+  background: url('../image/icons.svg') no-repeat -125px -533px;
+	width: 50px;
+	height: 36px;
+}
+.icon-43 {
+  background: url('../image/icons.svg') no-repeat -230px -531px;
+	width: 40px;
+	height: 40px;
+}
+.icon-44 {
+  background: url('../image/icons.svg') no-repeat -330px -531px;
+	width: 40px;
+	height: 40px;
+}
+.icon-45 {
+  background: url('../image/icons.svg') no-repeat -430px -531px;
+	width: 40px;
+	height: 40px;
+}
+.icon-46 {
+  background: url('../image/icons.svg') no-repeat -530px -531px;
+	width: 40px;
+	height: 40px;
+}
+.icon-47 {
+  background: url('../image/icons.svg') no-repeat -625px -536px;
+	width: 50px;
+	height: 30px;
+}
+.icon-48 {
+  background: url('../image/icons.svg') no-repeat -732px -531px;
+	width: 36px;
+	height: 40px;
+}
+.icon-49 {
+  background: url('../image/icons.svg') no-repeat -35px -631px;
+	width: 30px;
+	height: 40px;
+}
+.icon-50 {
+  background: url('../image/icons.svg') no-repeat -138px -631px;
+	width: 24px;
+	height: 40px;
+}
+.icon-51 {
+  background: url('../image/icons.svg') no-repeat -230px -631px;
+	width: 40px;
+	height: 40px;
+}
+.icon-52 {
+  background: url('../image/icons.svg') no-repeat -325px -631px;
+	width: 50px;
+	height: 40px;
+}
+.icon-53 {
+  background: url('../image/icons.svg') no-repeat -427px -631px;
+	width: 46px;
+	height: 40px;
+}
+.icon-54 {
+  background: url('../image/icons.svg') no-repeat -525px -631px;
+	width: 50px;
+	height: 40px;
+}
+.icon-55 {
+  background: url('../image/icons.svg') no-repeat -630px -633px;
+	width: 40px;
+	height: 36px;
+}
+.icon-56 {
+  background: url('../image/icons.svg') no-repeat -725px -631px;
+	width: 50px;
+	height: 40px;
+}
+.icon-57 {
+  background: url('../image/icons.svg') no-repeat -32px -731px;
+	width: 36px;
+	height: 40px;
+}
+.icon-58 {
+  background: url('../image/icons.svg') no-repeat -125px -736px;
+	width: 50px;
+	height: 30px;
+}
+.icon-59 {
+  background: url('../image/icons.svg') no-repeat -232px -731px;
+	width: 36px;
+	height: 40px;
+}
+.icon-60 {
+  background: url('../image/icons.svg') no-repeat -332px -731px;
+	width: 36px;
+	height: 40px;
+}
+.icon-61 {
+  background: url('../image/icons.svg') no-repeat -430px -731px;
+	width: 40px;
+	height: 40px;
+}
+.icon-62 {
+  background: url('../image/icons.svg') no-repeat -535px -731px;
+	width: 30px;
+	height: 40px;
+}
+.icon-63 {
+  background: url('../image/icons.svg') no-repeat -630px -731px;
+	width: 40px;
+	height: 39px;
+}
+.icon-64 {
+  background: url('../image/icons.svg') no-repeat -730px -733px;
+	width: 40px;
+	height: 36px;
+}
